@@ -12,7 +12,7 @@ This repository serves as a central hub for the following:
 ## Getting Started
 To get started with any of the projects in this repository, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/aspershupadhyay/your-repo.git`
+1. Clone the repository to your local machine using `git clone https://github.com/aspershupadhyay/My_All_Projects.git`
 2. Navigate to the project directory you're interested in.
 3. Read the project's README file for instructions on how to set up and run the project.
 
