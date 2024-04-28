@@ -25,6 +25,6 @@ While this repository is primarily for showcasing my work, I welcome contributio
 
 ## Contact 📫
 
-If you have any questions, suggestions, or would like to collaborate, feel free to reach out to me at [your-email@example.com]. 💬
+If you have any questions, suggestions, or would like to collaborate, feel free to reach out to me at [aspershupadhyay@gmail.com]. 💬
 
 Happy coding! 🎉
